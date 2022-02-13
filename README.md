@@ -4,8 +4,8 @@ I'm a Physics and Mathematics Student in Guatemala.
 
 
 ### Connect with me:
-[![telegram](./img/telegram-light.svg)](t.me/DSarceno#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](t.me/DSarceno#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/DSarceno#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/DSarceno#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/3CR4Zz#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/3CR4Zz#gh-dark-mode-only)
@@ -16,8 +16,8 @@ I'm a Physics and Mathematics Student in Guatemala.
 [![mail](./img/mail-light.svg)](dsarceno68@gmail.com#gh-light-mode-only "dsarceno68@gmail.com")
 [![mail](./img/mail-dark.svg)](dsarceno68@gmail.com#gh-dark-mode-only "dsarceno68@gmail.com")
 &nbsp;&nbsp;
-[![twitch](./img/twitch-light.svg)](twitch.com/newt8ff#gh-light-mode-only)
-[![twitch](./img/twitch-dark.svg)](twitch.com/newt8ff#gh-dark-mode-only)
+[![twitch](./img/twitch-light.svg)](https://twitch.com/newt8ff#gh-light-mode-only)
+[![twitch](./img/twitch-dark.svg)](https://twitch.com/newt8ff#gh-dark-mode-only)
 
 
 ### Languages and Tools:
