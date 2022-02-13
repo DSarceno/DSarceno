@@ -4,20 +4,20 @@ I'm a Physics and Mathematics Student in Guatemala.
 
 
 ### Connect with me:
-[![telegram](./img/telegram-light.svg)](telegram#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](telegram#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](t.me/DSarceno#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](t.me/DSarceno#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](twitter#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](twitter#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/3CR4Zz#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/3CR4Zz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](instagram#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](instagram#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/3c_z.z/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/3c_z.z/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![mail](./img/mail-light.svg)](mail#gh-light-mode-only "dsarceno68@gmail.com")
-[![mail](./img/mail-dark.svg)](mail#gh-dark-mode-only "dsarceno68@gmail.com")
+[![mail](./img/mail-light.svg)](dsarceno68@gmail.com#gh-light-mode-only "dsarceno68@gmail.com")
+[![mail](./img/mail-dark.svg)](dsarceno68@gmail.com#gh-dark-mode-only "dsarceno68@gmail.com")
 &nbsp;&nbsp;
-[![twitch](./img/twitch-light.svg)](twitch#gh-light-mode-only)
-[![twitch](./img/twitch-dark.svg)](twitch#gh-dark-mode-only)
+[![twitch](./img/twitch-light.svg)](twitch.com/newt8ff#gh-light-mode-only)
+[![twitch](./img/twitch-dark.svg)](twitch.com/newt8ff#gh-dark-mode-only)
 
 
 ### Languages and Tools:
