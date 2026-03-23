@@ -1,6 +1,6 @@
 ## Hi, I'm Diego
 
-I'm a Physics and Mathematics Student in Guatemala.
+I'm a Physicist and a mid-Lavel Data Scientist in Guatemala.
 
 
 ### Connect with me:
